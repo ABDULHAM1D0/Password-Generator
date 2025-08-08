@@ -1,7 +1,7 @@
-instagram/mirzaahmedov10@mail.ru/hello
-sdf/mirzaahmedov10@mail.ru/dfg
-amazon | mirzaahmedov10@mail.ru | 12345
-ebay | mirzaahmedov10@mail.ru | qwerty
-facebook | mirzaahmedov10@mail.ru | poiuysf
-empty | mirzaahmedov10@mail.ru | hellod
-instagram | mirzaahmedov10@mail.ru | ljhgdf
+instagram/random_mail@mail.ru/hello
+sdf/random_mail0@mail.ru/dfg
+amazon | random_mail@mail.ru | 12345
+ebay | random_mail0@gmail.com | qwerty
+facebook | random_mail@mail.ru | poiuysf
+empty | random_mail@gmail.com | hellod
+instagram | random_mail@yahoo| ljhgdf
